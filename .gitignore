@@ -18,3 +18,10 @@
 # PlatformIO virtualenv and pioenv
 /.venv*
 /.pioenvs
+
+# Googledrive
+[Dd]esktop.ini
+
+#VSCode
+.pio/
+.vscode/
